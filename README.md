@@ -20,21 +20,21 @@ Todos los microservicios tiene la dependencia OPENAPI Swagger que permiti visual
 - Swagger
 
 ## Configuración del Proyecto
-1. Asegúrate de tener instalado un MySQL Server
-1.1. Script -> Crear base de dados
+Asegúrate de tener instalado un MySQL Server
+1. Script -> Crear base de dados
 ``Semana04_06_03_FinalProject_Reservas/src/main/resources/CREATE_SCHEMA.sql``
-1.2. Script -> Crear table **hotels**
+2. Script -> Crear table **hotels**
 ``Semana04_06_01_FinalProject_Hotel/src/main/resources/CREATE_TABLE_HOTELS.sql``
-1.3. Script -> Crear table **vuelos**
+3. Script -> Crear table **vuelos**
 ``Semana04_06_02_FinalProject_Vuelos/src/main/resources/CREATE_TABLE_VUELOS.sql``
-1.4. Script -> Crear table **reservas**
+4. Script -> Crear table **reservas**
 ``Semana04_06_03_FinalProject_Reservas/src/main/resources/CREATE_TABLE_RESERVAS.sql``
 
-2. Asegúrate de tener instalado Java y Maven en tu sistema antes de ejecutar el proyecto.
-2.1. Clona este repositorio en tu máquina local:
+Asegúrate de tener instalado Java y Maven en tu sistema antes de ejecutar el proyecto.
+5. Clona este repositorio en tu máquina local:
    ``git clone https://github.com/tiago0liveira77/BasicTravelMicroservices.git``
-2.2. Navega al directorio de todos los microservicios:
-2.3. Ejecuta la aplicación Spring Boot:
+6. Navega al directorio de todos los microservicios:
+7. Ejecuta la aplicación Spring Boot:
 ``mvn *microservicio*:run``
 
 Documentacion de API (usando las mismas ports):
