@@ -1,4 +1,5 @@
 
+
 # Basic Travel Microservices
 Este proyecto es una REST API desarrolada en Spring Boot y ha sido creado como parte de la formación "Master Java"
 
@@ -31,7 +32,8 @@ Asegúrate de tener instalado un MySQL Server
 ``Semana04_06_03_FinalProject_Reservas/src/main/resources/CREATE_TABLE_RESERVAS.sql``
 
 Asegúrate de tener instalado Java y Maven en tu sistema antes de ejecutar el proyecto.
-5. Clona este repositorio en tu máquina local:
+
+5. lona este repositorio en tu máquina local:
    ``git clone https://github.com/tiago0liveira77/BasicTravelMicroservices.git``
 6. Navega al directorio de todos los microservicios:
 7. Ejecuta la aplicación Spring Boot:
