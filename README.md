@@ -31,7 +31,7 @@ Asegúrate de tener instalado un MySQL Server
 4. Script -> Crear table **vuelos**
 ``Semana04_06_02_FinalProject_Vuelos/src/main/resources/CREATE_TABLE_VUELOS.sql``
 5. Script -> Crear table **reservas**
-``Semana04_06_03_FinalProject_Reservas/src/main/resources/CREATE_TABLE_RESERVAS.sql``
+``Semana04_06_03_FinalProject_Reservas/src/main/resources/CREATE_TABLE_RESERVAS.sql``   
 
 Asegúrate de tener instalado Java y Maven en tu sistema antes de ejecutar el proyecto.
 6. Verifica la conexion a base de datos en el **application.properties**
