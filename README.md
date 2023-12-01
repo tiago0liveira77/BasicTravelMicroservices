@@ -1,5 +1,3 @@
-
-
 # Basic Travel Microservices
 Este proyecto es una REST API desarrolada en Spring Boot y ha sido creado como parte de la formación "Master Java"
 
@@ -46,7 +44,7 @@ Asegúrate de tener instalado Java y Maven en tu sistema antes de ejecutar el pr
 
 ## Errores de conexion a base de datos
 Si tiene problemas para iniciar microservicios debido a un error de la base de datos:
-- Bborrar todo el contenido del **application.properties**
+- Borrar todo el contenido del **application.properties**
 - Iniciar el proyecto 1x (el error aparecerá nuevamente) 
 - Luego volver a colocar el contenido eliminado
 - Iniciar el microservicio nuevamente.
